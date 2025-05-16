@@ -25,7 +25,7 @@ A Convolutional Neural Network (CNN) built with Keras and TensorFlow to classify
 
 ---
 
-Built with ❤️ by [Apoorva Tiwari] (https://github.com/ApoorvaTiwari26)
+Built by Apoorva Tiwari (https://github.com/ApoorvaTiwari26)
 
 ---
 
