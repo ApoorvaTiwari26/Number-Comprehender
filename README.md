@@ -59,6 +59,7 @@ A Convolutional Neural Network (CNN) built with Keras and TensorFlow to classify
 
    The model will predict the corresponding **double-digit** class (00–99).
 
+
 ---
 
 Built by Apoorva Tiwari (https://github.com/ApoorvaTiwari26)
