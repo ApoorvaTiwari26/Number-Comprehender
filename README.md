@@ -16,13 +16,11 @@ A Convolutional Neural Network (CNN) built with Keras and TensorFlow to classify
 
 ## 🛠 Tech Stack
 
-- Python  
-- TensorFlow / Keras  
-- NumPy  
-- Pillow (PIL)  
-- OpenCV (cv2)  
-- Google Colab (for development)
-
+- **Python 3**
+- **TensorFlow / Keras**
+- **NumPy**
+- **Pillow (PIL)**
+- **OpenCV**
 ---
 
 
@@ -30,7 +28,7 @@ A Convolutional Neural Network (CNN) built with Keras and TensorFlow to classify
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/double-digit-classifier.git
+   git clone https://github.com/apoorvatiwari26/double-digit-classifier.git
    cd double-digit-classifier
    ```
 
