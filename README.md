@@ -25,10 +25,6 @@ A Convolutional Neural Network (CNN) built with Keras and TensorFlow to classify
 
 ---
 
-Built by Apoorva Tiwari (https://github.com/ApoorvaTiwari26)
-
----
-
 
 ## 🧪 How to Use
 1. **Clone the Repository**
@@ -62,3 +58,7 @@ Built by Apoorva Tiwari (https://github.com/ApoorvaTiwari26)
    - Contain a **single digit (0–9)**
 
    The model will predict the corresponding **double-digit** class (00–99).
+
+---
+
+Built by Apoorva Tiwari (https://github.com/ApoorvaTiwari26)
