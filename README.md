@@ -29,9 +29,36 @@ Built by Apoorva Tiwari (https://github.com/ApoorvaTiwari26)
 
 ---
 
-## 📸 How to Use
 
-1. **Clone the repository**:
+## 🧪 How to Use
+1. **Clone the Repository**
+
    ```bash
-   git clone https://github.com/ApoorvaTiwari26/double-digit-classifier.git
+   git clone https://github.com/yourusername/double-digit-classifier.git
    cd double-digit-classifier
+   ```
+
+2. **Install Dependencies**
+
+   Make sure Python is installed, then install the required libraries:
+
+   ```bash
+   pip install tensorflow numpy pillow opencv-python
+   ```
+
+3. **Run the Classifier**
+
+   ```bash
+   python double_digit_classifier.py
+   ```
+
+4. **Predict from Image**
+
+   When prompted, enter the path to a scanned digit image.
+
+   The image should:
+   - Be **grayscale**
+   - Be sized **28×28 pixels**
+   - Contain a **single digit (0–9)**
+
+   The model will predict the corresponding **double-digit** class (00–99).
